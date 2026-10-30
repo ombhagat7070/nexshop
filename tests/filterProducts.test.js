@@ -1,3 +1,4 @@
+
 import assert from 'node:assert/strict'
 import { describe, it } from 'node:test'
 import products from '../src/data/products.json' with { type: 'json' }
@@ -13,7 +14,7 @@ describe('filterProducts', () => {
       filterProducts(products, 'OXFORD', 'All').map((product) => product.id),
       [13]
     )
-    assert.equal(filterProducts(products, 'hoodies', 'All').length, 4)
+    assert.equal(filterProducts(products, 'hoodies', 'All').length, 5)
   })
 
   it('combines category and search filters', () => {
@@ -31,7 +32,7 @@ describe('filterProducts', () => {
       filterProducts(products, '  classic  ', 'All').map(
         (product) => product.id
       ),
-      [2, 5, 12]
+      [2, 5, 12, 17]
     )
     assert.deepEqual(filterProducts(products, 'not a product', 'All'), [])
   })

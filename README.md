@@ -36,3 +36,82 @@ Vite prints the local development URL after startup.
 - Local image fallback when a remote product image is unavailable
 
 Products are defined in [`src/data/products.json`](./src/data/products.json). Product photos are loaded from Unsplash and require an internet connection; the storefront uses a local placeholder if a remote image fails.
+
+## Screenshots
+
+### Home Page
+![Nexshop Home Page](screenshots/home.png)
+
+### Product Details
+![Product Details](screenshots/product-details.png)
+
+### Shopping Bag
+![Shopping Bag](screenshots/cart.png)
+
+
+## Project Structure
+
+```text
+nexshop/
+├── public/
+│   ├── favicon.svg
+│   ├── icons.svg
+│   └── product-placeholder.svg
+├── screenshots/
+│   ├── home.png
+│   ├── product-details.png
+│   └── cart.png
+├── src/
+│   ├── assets/
+│   ├── components/
+│   ├── context/
+│   ├── data/
+│   ├── pages/
+│   ├── App.jsx
+│   ├── App.css
+│   ├── index.css
+│   └── main.jsx
+├── tests/
+├── .gitignore
+├── package.json
+├── README.md
+└── vite.config.js
+```
+
+## Tech Stack
+
+- **Frontend:** React.js, JavaScript, HTML5, CSS3
+- **Build Tool:** Vite
+- **Routing:** React Router
+- **State Management:** React Context API
+- **Storage:** Browser Local Storage
+- **Testing:** Node.js Test Runner
+
+## Testing
+
+Run the following command to execute the unit tests:
+
+```bash
+npm test
+```
+
+## Future Improvements
+
+- User authentication
+- Backend and database integration
+- Payment gateway integration
+- Order management
+- Product administration
+```
+
+These future improvements are ideas, not features currently implemented.
+
+## Step 7E: Save and verify
+
+Check that:
+- All three screenshots display.
+- Project structure matches your actual folders.
+- Commands are correctly formatted.
+- No broken image links appear.
+
+**Once done, tell me.** Next we'll run the tests and production build before pushing the updated README and screenshots to GitHub.

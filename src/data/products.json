@@ -1,0 +1,182 @@
+
+[
+  {
+    "id": 1,
+    "name": "Essential Cotton Tee",
+    "image": "https://images.unsplash.com/photo-1503341504253-dff4815485f1?w=700&auto=format&fit=crop&q=80",
+    "price": 799,
+    "category": "T-shirts & Polos",
+    "rating": 4.6,
+    "description": "A versatile everyday T-shirt crafted for a comfortable fit and effortless styling."
+  },
+  {
+    "id": 2,
+    "name": "Classic White Tee",
+    "image": "https://images.unsplash.com/photo-1521572163474-6864f9cf17ab?w=700&auto=format&fit=crop&q=80",
+    "price": 699,
+    "category": "T-shirts & Polos",
+    "rating": 4.4,
+    "description": "A clean, timeless white tee that pairs easily with your everyday wardrobe."
+  },
+  {
+    "id": 3,
+    "name": "Relaxed Fit Tee",
+    "image": "https://images.unsplash.com/photo-1527719327859-c6ce80353573?w=700&auto=format&fit=crop&q=80",
+    "price": 899,
+    "category": "T-shirts & Polos",
+    "rating": 4.7,
+    "description": "A relaxed silhouette designed for casual outfits and laid-back weekends."
+  },
+  {
+    "id": 4,
+    "name": "Everyday Polo",
+    "image": "https://dtcralphlauren.scene7.com/is/image/PoloGSI/s7-AI710941439002_alternate10?$plpDeskRF$",
+    "price": 999,
+    "category": "T-shirts & Polos",
+    "rating": 4.3,
+    "description": "A smart-casual polo that brings a refined touch to everyday dressing."
+  },
+  {
+    "id": 5,
+    "name": "Classic Fleece Hoodie",
+    "image": "https://images.unsplash.com/photo-1556821840-3a63f95609a7?w=700&auto=format&fit=crop&q=80",
+    "price": 1799,
+    "category": "Hoodies & Sweatshirts",
+    "rating": 4.8,
+    "description": "A soft, comfortable hoodie made for cool mornings and relaxed evenings."
+  },
+  {
+    "id": 6,
+    "name": "Minimal Crew Sweatshirt",
+    "image": "https://images.unsplash.com/photo-1578768079052-aa76e52ff62e?w=700&auto=format&fit=crop&q=80",
+    "price": 1499,
+    "category": "Hoodies & Sweatshirts",
+    "rating": 4.5,
+    "description": "A versatile crew-neck sweatshirt with a clean, understated look."
+  },
+  {
+    "id": 7,
+    "name": "Oversized Hoodie",
+    "image": "https://images.unsplash.com/photo-1578681994506-b8f463449011?w=700&auto=format&fit=crop&q=80",
+    "price": 1999,
+    "category": "Hoodies & Sweatshirts",
+    "rating": 4.7,
+    "description": "A relaxed oversized hoodie for a modern streetwear-inspired outfit."
+  },
+  {
+    "id": 8,
+    "name": "Everyday Zip Hoodie",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTxsDsU3zK88EzI1l8IjCZX7gc6kE2dHgF-VlPAGLOO7A&s=10",
+    "price": 1899,
+    "category": "Hoodies & Sweatshirts",
+    "rating": 4.4,
+    "description": "An easy-to-layer zip hoodie for comfortable everyday wear."
+  },
+  {
+    "id": 9,
+    "name": "Straight Fit Denim",
+    "image": "https://images.unsplash.com/photo-1542272604-787c3835535d?w=700&auto=format&fit=crop&q=80",
+    "price": 1699,
+    "category": "Bottomwear",
+    "rating": 4.6,
+    "description": "Classic straight-fit denim designed to work with casual and smart-casual outfits."
+  },
+  {
+    "id": 10,
+    "name": "Everyday Chinos",
+    "image": "https://images.unsplash.com/photo-1473966968600-fa801b869a1a?w=700&auto=format&fit=crop&q=80",
+    "price": 1499,
+    "category": "Bottomwear",
+    "rating": 4.3,
+    "description": "Comfortable chinos that transition easily from weekday wear to weekends."
+  },
+  {
+    "id": 11,
+    "name": "Relaxed Fit Trousers",
+    "image": "https://images.unsplash.com/photo-1624378439575-d8705ad7ae80?w=700&auto=format&fit=crop&q=80",
+    "price": 1599,
+    "category": "Bottomwear",
+    "rating": 4.5,
+    "description": "Relaxed trousers with a contemporary shape and versatile styling."
+  },
+  {
+    "id": 12,
+    "name": "Classic Denim Jeans",
+    "image": "https://images.unsplash.com/photo-1541099649105-f69ad21f3246?w=700&auto=format&fit=crop&q=80",
+    "price": 1799,
+    "category": "Bottomwear",
+    "rating": 4.7,
+    "description": "An everyday denim essential designed for timeless casual looks."
+  },
+  {
+    "id": 13,
+    "name": "Oxford Casual Shirt",
+    "image": "https://images.unsplash.com/photo-1596755094514-f87e34085b2c?w=700&auto=format&fit=crop&q=80",
+    "price": 1299,
+    "category": "Shirts & Jackets",
+    "rating": 4.5,
+    "description": "A versatile button-down shirt suitable for everyday and smart-casual occasions."
+  },
+  {
+    "id": 14,
+    "name": "Relaxed Linen Shirt",
+    "image": "https://images.unsplash.com/photo-1603252110481-7ba873bf42ab?w=700&auto=format&fit=crop&q=80",
+    "price": 1399,
+    "category": "Shirts & Jackets",
+    "rating": 4.6,
+    "description": "A lightweight, relaxed shirt for effortless warm-weather styling."
+  },
+  {
+    "id": 15,
+    "name": "Everyday Overshirt",
+    "image": "https://images.unsplash.com/photo-1591047139829-d91aecb6caea?w=700&auto=format&fit=crop&q=80",
+    "price": 1899,
+    "category": "Shirts & Jackets",
+    "rating": 4.4,
+    "description": "A versatile outer layer that adds structure to a simple everyday outfit."
+  },
+  {
+    "id": 16,
+    "name": "Minimal Casual Jacket",
+    "image": "https://images.unsplash.com/photo-1551028719-00167b16eac5?w=700&auto=format&fit=crop&q=80",
+    "price": 2499,
+    "category": "Shirts & Jackets",
+    "rating": 4.8,
+    "description": "A modern casual jacket designed to complement a clean, understated wardrobe."
+  },
+  {
+    "id": 17,
+    "name": "Classic Linen Shirt",
+    "image": "https://images.unsplash.com/photo-1598033129183-c4f50c736f10?w=800&auto=format&fit=crop&q=80",
+    "price": 1799,
+    "category": "Shirts & Jackets",
+    "rating": 4.7,
+    "description": "A breathable linen-blend shirt with a relaxed silhouette, designed for effortless everyday styling."
+  },
+  {
+    "id": 18,
+    "name": "Essential Straight-Leg Jeans",
+    "image": "https://aaronlevineny.com/cdn/shop/files/aaron_levine_flatlay3432.jpg?v=1784981013&width=720",
+    "price": 2299,
+    "category": "Bottomwear",
+    "rating": 4.8,
+    "description": "Versatile straight-leg denim with a timeless fit that pairs effortlessly with everyday essentials."
+  },
+  {
+    "id": 19,
+    "name": "Relaxed Cotton Trousers",
+    "image": "https://images.unsplash.com/photo-1594633312681-425c7b97ccd1?w=800&auto=format&fit=crop&q=80",
+    "price": 1999,
+    "category": "Bottomwear",
+    "rating": 4.7,
+    "description": "Comfortable relaxed-fit trousers with a clean finish, perfect for smart-casual outfits and daily wear."
+  },
+  {
+  "id": 20,
+  "name": "Premium Cotton Cardigan",
+  "category": "Hoodies & Sweatshirts",
+  "price": 2199,
+  "image": "https://images.unsplash.com/photo-1618354691373-d851c5c3a990?w=800&auto=format&fit=crop&q=80",
+  "description": "A versatile cotton cardigan with a clean silhouette, soft texture, and a comfortable everyday fit."
+}
+]
